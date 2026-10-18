@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-neoncasino
+Exec=sailfish-qml harbour-neoncasino
+Name=Neon Casino
+
+[X-Sailjail]
+Permissions=Audio
+OrganizationName=org.neoncasino
+ApplicationName=harbour-neoncasino

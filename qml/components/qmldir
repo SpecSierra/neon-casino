@@ -1,0 +1,5 @@
+singleton Neon 1.0 Neon.qml
+singleton Sound 1.0 Sound.qml
+singleton Game 1.0 Game.qml
+singleton Haptics 1.0 Haptics.qml
+singleton Music 1.0 Music.qml
