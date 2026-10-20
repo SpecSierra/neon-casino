@@ -2,7 +2,7 @@ Name:       harbour-neoncasino
 Summary:    Cyberpunk casino roguelike: slots, blackjack and roulette
 Version:    1.3.0
 Release:    1
-License:    BSD-2-Clause
+License:    GPLv3+ and CC0 and OFL
 BuildArch:  noarch
 Source0:    %{name}-%{version}.tar.gz
 Requires:   sailfishsilica-qt5 >= 0.10.9
